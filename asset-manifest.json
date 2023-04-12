@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/charlbergs/carapp/static/css/main.0597ef04.css",
+    "main.js": "/charlbergs/carapp/static/js/main.f0b373ee.js",
+    "static/js/787.22ea9dd3.chunk.js": "/charlbergs/carapp/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/charlbergs/carapp/index.html",
+    "main.0597ef04.css.map": "/charlbergs/carapp/static/css/main.0597ef04.css.map",
+    "main.f0b373ee.js.map": "/charlbergs/carapp/static/js/main.f0b373ee.js.map",
+    "787.22ea9dd3.chunk.js.map": "/charlbergs/carapp/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.f0b373ee.js"
+  ]
+}
